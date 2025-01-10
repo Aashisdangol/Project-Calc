@@ -1,0 +1,23 @@
+.wrapper{
+    min-height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+
+}
+.calculator-container{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 500px;
+
+}
+.display-box{
+    border: 1px solid black;
+    padding: 16px;
+    text-align: end;
+    font-size: 24px;
+    border-radius: 12px;
+    
+}
