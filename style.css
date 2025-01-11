@@ -32,6 +32,7 @@ button{
     font-weight: bold;
     flex: 1;
     margin-bottom: 12px;
+    cursor: pointer;
 
 }
 
